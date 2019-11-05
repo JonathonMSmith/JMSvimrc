@@ -1,5 +1,5 @@
 # JMSvimrc
-Here's some dang ol' installation instructions
+Here's some dang ol' installation instructions  
 cd ~  
 git clone https://github.com/JonathonMSmith/JMSvimrc.git ~/.vim  
 ln -s ~/.vim/vimrc ~/.vimrc  
