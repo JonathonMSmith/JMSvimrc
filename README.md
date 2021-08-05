@@ -1,9 +1,8 @@
 # JMSvimrc
 
-Dependencies???
-
-Vim lol
-Pathogen
+Dependencies???  
+Vim lol  
+Pathogen  
 
 Here's some dang ol' installation instructions  
 cd ~  
