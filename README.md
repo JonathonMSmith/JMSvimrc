@@ -1,4 +1,9 @@
 # JMSvimrc
+
+Dependencies???
+Vim lol
+Pathogen
+
 Here's some dang ol' installation instructions  
 cd ~  
 git clone https://github.com/JonathonMSmith/JMSvimrc.git ~/.vim  
